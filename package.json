@@ -1,0 +1,28 @@
+{
+  "name": "learn-gulp",
+  "version": "1.0.0",
+  "description": "learn gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JeffDu",
+  "license": "ISC",
+  "devDependencies": {
+    "beeper": "^1.1.0",
+    "browser-sync": "^2.12.8",
+    "connect": "^3.4.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-myth": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2",
+    "serve-static": "^1.10.2"
+  }
+}
